@@ -36,9 +36,6 @@
 ⮚	Change the colour using RGB mode.
 
 
-
-
-
 ## CHANGING THE SIZE
 
 
@@ -47,8 +44,6 @@
 ⮚	Change the size of the object.
 
 ⮚	Press enter to set the size.
-
-
 
 ## OUTPUT:
 
