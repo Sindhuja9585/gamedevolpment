@@ -46,10 +46,6 @@
 ⮚	Press enter to set the size.
 
 ## OUTPUT:
-
 ![gd output](https://github.com/user-attachments/assets/ca35861e-2eeb-4082-b928-623786552b4c)
-
-
-
 ## RESULT:
 Thus an image is edited using an image editing software.
