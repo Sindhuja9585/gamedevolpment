@@ -47,7 +47,7 @@
 
 ## OUTPUT:
 
-![WhatsApp Image 2025-10-29 at 15 46 40_8280b198](https://github.com/user-attachments/assets/d535b714-b97a-49a7-b103-f3ead8cc71a6)
+![gd output](https://github.com/user-attachments/assets/ca35861e-2eeb-4082-b928-623786552b4c)
 
 
 
